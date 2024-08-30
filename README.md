@@ -1,7 +1,6 @@
 ## Seja bem-vindo
 
 - 🎓 Cursando Engenharia de Software (Faculdade de Informática e Administração Paulista - FIAP)
-- 💼 Desenvolvedor Júnior
 - 🖥️ JavaScript | HTML | CSS  | Python
 
 <div align="center">  
