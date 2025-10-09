@@ -4,7 +4,7 @@
 - 📊 Transformando dados em decisões e soluções inteligentes.
 
 ### Sobre mim
-- 🎓 Graduando em Engenharia de Software pela FIAP - Faculdade de Informática e Administração Paulista.  
+- Graduando em Engenharia de Software pela FIAP - Faculdade de Informática e Administração Paulista.  
 - Trabalho com **engenharia e análise de dados**, construindo pipelines e modelos de machine learning.  
 - Atualmente estudando **: MLOps / Databricks / GenAI / Machine Learning / Airflow**.  
 
