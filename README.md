@@ -1,24 +1,58 @@
-## Seja bem-vindo
+<h1 align="center">Olá, eu sou Witalon</h1>
 
-- 🎓 Cursando Engenharia de Software (Faculdade de Informática e Administração Paulista - FIAP)
-- 🖥️ JavaScript | HTML | CSS  | Python
+<p align="center">
+  💼 Engenheiro de Dados | Cientista de Dados | Analista de Dados <br>
+  📊 Transformando dados em decisões e soluções inteligentes.
+</p>
 
-<div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=witalonrodrigues&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witalonrodrigues&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-  </div>
+### Sobre mim
+- 🎓 Graduando em Engenharia de Software pela FIAP - Faculdade de Informática e Administração Paulista.  
+- Trabalho com **engenharia e análise de dados**, construindo pipelines e modelos de machine learning.  
+- Atualmente estudando **: MLOps / Databricks / GenAI / Machine Learning / Airflow**.  
 
-  <div>
-    <h2>Principais Habilidades</h2>
- <div style="display: inline_block"><br>
-   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
- </div>
-   </div>
-   <div> 
-    <h2>Contato</h2> 
-   <a href="https://www.linkedin.com/in/witalon-antonio-rodrigues-87ba692b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-     <a href="https://www.instagram.com/witalonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
+### 🛠️ Tecnologias & Ferramentas
+
+#### Linguagens
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40"/>
+</p>
+
+#### Ferramentas e Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
+</p>
+
+### 📊 Principais Projetos
+| Projeto | Descrição | Tecnologias |
+|----------|------------|-------------|
+| [🔗 Projeto 1](https://github.com/witalonrodrigues/premier-league-predict-model) | Predição de Jogos Esportivos com ML | Python, Airflow, AWS |
+| [🔗 Projeto 2](https://github.com/witalonrodrigues/HidroScan) | Análise de Dados de Enchentes com Python | Pandas
+
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+### 🌐 Conecte-se comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/[seu-linkedin]" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="mailto:[seu-email]">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="30"/>
+  </a>
+</p>
+
+---
