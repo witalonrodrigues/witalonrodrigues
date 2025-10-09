@@ -1,9 +1,7 @@
-<h1 align="center">Olá, eu sou Witalon</h1>
+# Olá, eu sou Witalon 
 
-<p align="center">
-  💼 Engenheiro de Dados | Cientista de Dados | Analista de Dados <br>
-  📊 Transformando dados em decisões e soluções inteligentes.
-</p>
+- 💼 Engenheiro de Dados | Cientista de Dados | Analista de Dados
+- 📊 Transformando dados em decisões e soluções inteligentes.
 
 ### Sobre mim
 - 🎓 Graduando em Engenharia de Software pela FIAP - Faculdade de Informática e Administração Paulista.  
@@ -25,32 +23,29 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/airflow/airflow-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" width="40" height="40"/>
 </p>
 
 ### 📊 Principais Projetos
 | Projeto | Descrição | Tecnologias |
 |----------|------------|-------------|
-| [🔗 Projeto 1](https://github.com/witalonrodrigues/premier-league-predict-model) | Predição de Jogos Esportivos com ML | Python, Airflow, AWS |
-| [🔗 Projeto 2](https://github.com/witalonrodrigues/HidroScan) | Análise de Dados de Enchentes com Python | Pandas
-
+| [🔗 Premier League Predict Model](https://github.com/witalonrodrigues/premier-league-predict-model) | Predição de Jogos Esportivos com ML | Python, Airflow, AWS |
+| [🔗 HidroScan](https://github.com/witalonrodrigues/HidroScan) | Análise de Dados de Enchentes com Python | Pandas
 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[seu-usuario]&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">  
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=witalonrodrigues&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=witalonrodrigues&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  </div>
 
 
 ### 🌐 Conecte-se comigo
 <p align="left">
-  <a href="https://www.linkedin.com/in/[seu-linkedin]" target="_blank">
+  <a href="https://www.linkedin.com/in/witalon" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="mailto:[seu-email]">
+  <a href="mailto:[witro999@gmail.com]">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="30"/>
   </a>
 </p>
