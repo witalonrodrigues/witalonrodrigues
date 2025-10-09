@@ -45,9 +45,6 @@
   <a href="https://www.linkedin.com/in/witalon" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
-  <a href="mailto:[witro999@gmail.com]">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" height="30"/>
-  </a>
 </p>
 
 ---
