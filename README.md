@@ -6,7 +6,7 @@
 ### Sobre mim
 - Graduando em Engenharia de Software pela FIAP - Faculdade de Informática e Administração Paulista.  
 - Trabalho com **engenharia e análise de dados**, construindo pipelines e modelos de machine learning.  
-- Atualmente estudando **: MLOps / Databricks / GenAI / Machine Learning / Airflow**.  
+- Atualmente estudando **: MLOps / Databricks / GenAI / Machine Learning**.  
 
 ### 🛠️ Tecnologias & Ferramentas
 
@@ -24,12 +24,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
-
-### 📊 Principais Projetos
-| Projeto | Descrição | Tecnologias |
-|----------|------------|-------------|
-| [🔗 Premier League Predict Model](https://github.com/witalonrodrigues/premier-league-predict-model) | Predição de Jogos Esportivos com ML | Python, Airflow, AWS |
-| [🔗 HidroScan](https://github.com/witalonrodrigues/HidroScan) | Análise de Dados de Enchentes com Python | Pandas
 
 ---
 
